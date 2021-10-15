@@ -1,0 +1,44 @@
+_repo: Gloucestershire-Friends-Poems-From-a-German-Prison-Camp_66362
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Frodsham, George Horsfall
+    birthdate: 1863
+    deathdate: 1937
+    gutenberg_agent_id: '53766'
+    url: http://www.gutenberg.org/2009/agents/53766
+    wikipedia: https://en.wikipedia.org/wiki/George_Frodsham
+creator:
+  author:
+    agent_name: Harvey, F. W. (Frederick William)
+    aliases:
+    - Harvey, Will
+    - Harvey, Frederick William
+    birthdate: 1888
+    deathdate: 1957
+    gutenberg_agent_id: '53638'
+    url: http://www.gutenberg.org/2009/agents/53638
+    wikipedia: https://en.wikipedia.org/wiki/F._W._Harvey
+description: ''
+gutenberg_issued: '2021-09-22'
+identifiers:
+  gutenberg: '66362'
+language: en
+pgterms:marc904: https://archive.org/details/gloucestershiref00harv/mode/2up
+pgterms:marc905: 20210627172115harvey
+pgterms:marc906: '1917'
+pgterms:marc907: gb
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by University of California libraries)
+publication_note: United Kingdom :Sidgwick and Jackson, Ltd.,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcsh 'Gloucestershire (England) -- Poetry'
+- GITenberg
+title: 'Gloucestershire Friends: Poems From a German Prison Camp'
+url: http://www.gutenberg.org/ebooks/66362
