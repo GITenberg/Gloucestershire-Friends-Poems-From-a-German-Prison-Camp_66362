@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '53766'
     url: http://www.gutenberg.org/2009/agents/53766
     wikipedia: https://en.wikipedia.org/wiki/George_Frodsham
+covers:
+- cover_type: archival
+  image_path: 66362-h/images/cover.jpg
 creator:
   author:
     agent_name: Harvey, F. W. (Frederick William)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53638
     wikipedia: https://en.wikipedia.org/wiki/F._W._Harvey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66362#Gloucestershire-Friends-Poems-From-a-German-Prison-Camp
 gutenberg_issued: '2021-09-22'
 identifiers:
   gutenberg: '66362'
